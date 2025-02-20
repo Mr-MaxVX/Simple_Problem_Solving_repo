@@ -1,3 +1,9 @@
+/* Hello here is Max.
+The idea of this code is to remove all the digits from the string.
+* Or in other words all the numbers from the String has to be removed.
+* A quick question I made up from a leet-code question.
+*/
+
 import java.util.Scanner;
 
 
